@@ -52,5 +52,5 @@ Num | Nome | Data
 ---|---|---
 1 | Similar ao Airbnb | abr/2022
 2 | Controlled Ranking | jun/2022
-3 | Estudar para o ENEM | náo concluído
+3 | Treinamento para ENEM | náo concluído
 
