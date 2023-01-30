@@ -54,3 +54,16 @@ Num | Nome | Data
 2 | Controlled Ranking | jun/2022
 3 | Treinamento para ENEM | náo concluído
 
+Não entendo o comando `getElementById()` da linguagem JavaScript (utilizei crase para destacar o nome do coamndo)
+
+Não encontro o erro no meu programa: (utilizei crase)
+```
+num = int(input("Digite um valor: ')
+if num%2 ==0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num é IMPAR')
+```
+Ou coloca um print da tela:
+![image](https://user-images.githubusercontent.com/97123702/215567741-d87e18a5-14f7-435b-a9e5-b7f5514b1a95.png)
+
