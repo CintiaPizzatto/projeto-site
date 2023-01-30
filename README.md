@@ -45,7 +45,7 @@ Lista de tarefas:
 * [ ] Fazer o escopo do projeto
 * [x] Fazer a primeira reunião
 
-[Acesse meu site](https://github.com/CintiaPizzatto)
+[Acesse meu site](https://kindly-alphabet-0be.notion.site/Cintia-Pizzatto-Frontend-Development-727a2c420f0642cc9b12b4e4f6ffd180)
 
 
 
