@@ -1,8 +1,8 @@
 # projeto-site
  Projeto de um site criado durante o curso de Git e Github
  
- ![image](https://user-images.githubusercontent.com/97123702/214713581-752a94ec-664c-4510-ac2d-7524bbef3a6d.png)
-
+ ![Dia das Mulheres](https://user-images.githubusercontent.com/97123702/214713581-752a94ec-664c-4510-ac2d-7524bbef3a6d.png)
+*o que está entre colchetes é o nome da figura
 
 # linguagem Markdown
 Negrito: **negrito com asterisco** ou __negrito com underline__
