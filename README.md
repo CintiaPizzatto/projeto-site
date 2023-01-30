@@ -75,6 +75,10 @@ Marcar qualquer pessoa que tenha github:
 @gafanhotos
 
 ou pegar a postagem de alguém:
+Vai na postagem, clica nos 3 pontinhos, clica em QUOTE REPLY, e faz sua resposta pelo comentário dela
+---------------------------
+
+
 
 
 
