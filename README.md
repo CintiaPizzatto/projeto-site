@@ -67,7 +67,7 @@ else:
 Ou coloca um print da tela:
 ![image](https://user-images.githubusercontent.com/97123702/215567741-d87e18a5-14f7-435b-a9e5-b7f5514b1a95.png)
 
-Para colocar emoji... pode pegar os emojis do github.com/ikatyang/emoji-cheat-seet (já clonei). Aqui tem o nome de muitos emojis. Você digita :monkey
-e vai aparecer o macaco
-ou pegar do emoji
+Para colocar emoji... pode pegar os emojis do github.com/ikatyang/emoji-cheat-seet (já clonei). Aqui tem o nome de muitos emojis. Você digita :monkey: 
+e vai aparecer o macaco. Isso não funciona no nome da ISSUE, terá que fazer da maneira abaixo:
+ou pegar do emoji do emojipedia.org. Copia e cola.
 
