@@ -47,5 +47,10 @@ Lista de tarefas:
 
 [Acesse meu site](https://kindly-alphabet-0be.notion.site/Cintia-Pizzatto-Frontend-Development-727a2c420f0642cc9b12b4e4f6ffd180)
 
-
+Tabela de Projetos
+Num | Nome | Data
+---|---|---
+1 | Similar ao Airbnb | abr/2022
+2 | Controlled Ranking | jun/2022
+3 | Estudar para o ENEM | náo concluído
 
